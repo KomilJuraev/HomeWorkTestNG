@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55262" started-at="2018-06-30T13:15:23Z" finished-at="2018-06-30T13:16:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55262" started-at="2018-06-30T13:15:23Z" finished-at="2018-06-30T13:16:19Z">
+      <class name="com.prestashop.HomeWork">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.prestashop.HomeWork@604ed9f0]" name="setUP" is-config="true" duration-ms="5400" started-at="2018-06-30T13:15:23Z" finished-at="2018-06-30T13:15:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="wrongCredentialsTest()[pri:1, instance:com.prestashop.HomeWork@604ed9f0]" name="wrongCredentialsTest" duration-ms="4288" started-at="2018-06-30T13:15:29Z" finished-at="2018-06-30T13:15:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongCredentialsTest -->
+        <test-method status="PASS" signature="invalidEmailTest()[pri:2, instance:com.prestashop.HomeWork@604ed9f0]" name="invalidEmailTest" duration-ms="816" started-at="2018-06-30T13:15:33Z" finished-at="2018-06-30T13:15:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmailTest -->
+        <test-method status="PASS" signature="blankEmailTest()[pri:3, instance:com.prestashop.HomeWork@604ed9f0]" name="blankEmailTest" duration-ms="933" started-at="2018-06-30T13:15:34Z" finished-at="2018-06-30T13:15:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blankEmailTest -->
+        <test-method status="PASS" signature="blankPasswordTest()[pri:4, instance:com.prestashop.HomeWork@604ed9f0]" name="blankPasswordTest" duration-ms="755" started-at="2018-06-30T13:15:35Z" finished-at="2018-06-30T13:15:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blankPasswordTest -->
+        <test-method status="PASS" signature="loginTest()[pri:5, instance:com.prestashop.HomeWork@604ed9f0]" name="loginTest" duration-ms="42978" started-at="2018-06-30T13:15:36Z" finished-at="2018-06-30T13:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.prestashop.HomeWork -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
